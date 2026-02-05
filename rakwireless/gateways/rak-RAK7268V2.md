@@ -134,4 +134,4 @@ For information about supported LoRaWAN network server platforms, see [**LoRaWAN
 ## Resources
 
 * [RAK7268V2 Datasheet](https://docs.rakwireless.com/Product-Categories/WisGate/RAK7268V2/Datasheet/)
-* [Quick Start Guide](https://docs.rakwireless.com/Product-Categories/WisGate/RAK7268V2/Quickstart/)
+* [Start Guide](https://docs.rakwireless.com/Product-Categories/WisGate/RAK7268V2/Quickstart/)
