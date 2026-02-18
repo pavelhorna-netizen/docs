@@ -18,7 +18,7 @@ The enclosure and connectors are **water-proof and dust-proof**, providing **IP6
 
 ### LoRaWAN
 
-- Requires one external antenna
+- Utilizes one internal antenna, an external antenna may be used, however doing so requires disconnecting the internal atenna.
 
 ### LTE
 
